@@ -1,6 +1,6 @@
 # HyStacks Discord Bot
 
-This a discord bot dedicated to hypixel.
+This a discord bot dedicated to hypixel
 
 ## Description
 
