@@ -15,5 +15,6 @@
     "hypixel-api": "^1.2.0",
     "node-fetch": "^2.6.0",
     "node.js": "0.0.1-security"
+    
   }
 }
