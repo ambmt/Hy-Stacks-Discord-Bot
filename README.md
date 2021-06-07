@@ -25,7 +25,7 @@ It is being worked on by two students on the side and any help would be apprecia
 
 ### ambmt
 twitter.com/ambmt
-Discord:ambmt#6969
+Discord:ambmt#0001
 
 ### Blobfish9669
 Discord: BlobFish#9669
